@@ -3,3 +3,4 @@
 /Users/damilolalolufemi/Downloads/dotnet-bug/obj/Release/net8.0/osx-arm64/test.AssemblyInfoInputs.cache
 /Users/damilolalolufemi/Downloads/dotnet-bug/obj/Release/net8.0/osx-arm64/test.AssemblyInfo.cs
 /Users/damilolalolufemi/Downloads/dotnet-bug/obj/Release/net8.0/osx-arm64/test.csproj.CoreCompileInputs.cache
+/Users/damilolalolufemi/Downloads/dotnet-bug/obj/Release/net8.0/osx-arm64/test.sourcelink.json
